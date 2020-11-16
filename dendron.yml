@@ -1,0 +1,12 @@
+vaults:
+    -
+        fsPath: my-vault
+        name: my-vault
+    -
+        fsPath: vault
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true

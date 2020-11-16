@@ -2,7 +2,7 @@
 id: e86ac3ab-dbe1-47a1-bcd7-9df0d0490b40
 title: Quickstart
 desc: ''
-updated: 1595170096361
+updated: 1605410880328
 created: 1595170096361
 stub: false
 nav_order: 1
@@ -20,12 +20,12 @@ This guide will help get you started with Dendron.
 
 This section covers the basics of Dendron. Get started on the right foot and start growing your knowledge base. 
 
-- [ ] Go through Dendron's basic [[concepts |dendron.concepts]]
-- [ ] Do your first [[lookup |dendron.topic.lookup]] - a better way to find your notes
-- [ ] Learn about [[schemas |dendron.topic.schema]] - a flexible type system for all your notes
-- [ ] Use a [[snippet | dendron.topic.snippets]]
+- [x] Go through Dendron's basic [[concepts |dendron.concepts]]
+- [x] Do your first [[lookup |dendron.topic.lookup]] - a better way to find your notes
+- [x] Learn about [[schemas |dendron.topic.schema]] - a flexible type system for all your notes
+- [x] Use a [[snippet | dendron.topic.snippets]]
 - [ ] Insert an [[image |dendron.topic.images]]
-- [ ] Create some [[links |dendron.topic.links]]
+- [x] Create some [[links |dendron.topic.links]]
 - [ ] Explore additional features from [[Dendron's bundled extensions |dendron.topic.extensions]]
 - [ ] [[Publish | dendron.topic.publishing]] your vault 
 - [ ] Join us on [discord](https://discord.com/invite/6j85zNX) and discuss all things knowledge management with your fellow trail blazers.
