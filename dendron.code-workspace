@@ -5,7 +5,8 @@
             "name": "my-vault"
         },
         {
-            "path": "vault"
+            "path": "dendron-site/vault",
+            "name": "dvault"
         }
     ],
     "settings": {

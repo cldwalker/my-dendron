@@ -3,7 +3,8 @@ vaults:
         fsPath: my-vault
         name: my-vault
     -
-        fsPath: vault
+        fsPath: dendron-site/vault
+        name: dvault
 site:
     copyAssets: true
     siteHierarchies:
