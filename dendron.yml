@@ -12,3 +12,4 @@ site:
         - app
     siteRootDir: docs
     usePrettyRefs: true
+version: 0
