@@ -2,3 +2,5 @@
 .dendron.port
 .dendron.ws
 /dendron-site
+docs/.ruby-version
+docs/_site
