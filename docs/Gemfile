@@ -2,4 +2,5 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll"
-gem "dendron-jekyll"
+# Uncomment to preview locally
+# gem "dendron-jekyll"
